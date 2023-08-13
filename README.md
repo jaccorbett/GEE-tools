@@ -13,7 +13,7 @@ https://github.com/jaccorbett/GEE-tools/assets/140025393/960273df-fad6-4b30-91fb
 
 
 
-See 'test.js' for source code
+See 'SentinelTimelapse.js' for source code
 
 OR
 
