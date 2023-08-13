@@ -1,4 +1,4 @@
-# Sentinel-2 Image Display
+# Sentinel-2 Display
 
 Timelapse generator + Image display:
 
