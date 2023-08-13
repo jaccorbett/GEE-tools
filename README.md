@@ -2,9 +2,10 @@
 
 Timelapse generator + Image display:
 
-- Selects and displays the 1st image in the image collection
-- Displays date label for the image
-- Generates a timelapse as a thumbnail in the console
+- Allows user to select a ROI
+- Displays the 1st image in the image collection (oldest)
+- Displays the date label
+- Generates a timelapse as a thumbnail in the console (includes a date stamp)
 - Allows user to export the timelapse as a .mp4 file
 
 
