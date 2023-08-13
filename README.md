@@ -17,4 +17,4 @@ See 'test.js' for source code
 
 OR
 
-https://code.earthengine.google.com/8edcfc9e4c7fa98ba971a2858b234d9b
+https://code.earthengine.google.com/b35897ba8359f12e7be80d79163104ae
