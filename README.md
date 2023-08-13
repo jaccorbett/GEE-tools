@@ -18,3 +18,5 @@ See 'test.js' for source code
 OR
 
 https://code.earthengine.google.com/b35897ba8359f12e7be80d79163104ae
+
+** This is an evolving project, yet to add additonal features + comments **
